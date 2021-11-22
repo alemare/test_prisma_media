@@ -1,0 +1,25 @@
+{
+  "name": "test_prisma_media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --config ./webpack.config.js --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alemare/test_prisma_media.git"
+  },
+  "author": "alemare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alemare/test_prisma_media/issues"
+  },
+  "homepage": "https://github.com/alemare/test_prisma_media#readme",
+  "devDependencies": {
+    "webpack": "^5.64.2",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.5.0"
+  }
+}
