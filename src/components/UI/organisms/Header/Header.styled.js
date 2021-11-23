@@ -12,6 +12,8 @@ export const HeaderContainer = styled.div`
 
     .navbar-content {
         background-color: #080808b8;
+        max-width: 1280px;
+    margin: auto;
         a.nav-link {
             color: white;
         }
